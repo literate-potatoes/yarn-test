@@ -1,0 +1,14 @@
+{
+  "name": "yarn-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/literate-potatoes/yarn-test.git",
+  "author": "Kamal Nasser <kamal@digitalocean.com>",
+  "license": "MIT",
+  "scripts": {
+	  "build": "cowsay yeet"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
